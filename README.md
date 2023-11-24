@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JonasDeBoeck
-- 👨‍🎓 I'm currently in my Master's Applied Information Technologies @VUB
-- 👨‍💻 I'm currently working as a student @Robonext
+- 👨‍🎓 I recently obtained my Master's in Applied Information Technologies @VUB
 - 📖 I'm interested in Machine Learning and Artificial Intelligence
 
 <!---

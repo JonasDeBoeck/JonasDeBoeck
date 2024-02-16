@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JonasDeBoeck
-- 👨‍🎓 I recently obtained my Master's in Applied Information Technologies @VUB
+- 👨‍🎓 I recently obtained my Master's in Applied Computer Science: Artificial Intelligence @VUB
 - 📖 I'm interested in Machine Learning and Artificial Intelligence
 
 <!---
